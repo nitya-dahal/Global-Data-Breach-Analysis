@@ -29,7 +29,7 @@ The raw dataset needed substantial cleaning before it could support reliable ana
 - Records Exposed: about a third of values weren't clean numbers, for example unknown, 235 GB, tens of thousands, and 9,000,000 (approx) - basic booking, 2208 (credit card details). Rather than discarding these rows, I kept the original text, built a parsed numeric column, and added a Records Confidence flag (Confirmed / Estimated / Unknown) so the dashboard is transparent about which figures are exact vs. approximate.
 - Organization Type: 70 overlapping/inconsistent category labels (e.g. web, web service, tech, web) were consolidated into 13 clear industry categories.
 - Breach Method: 25 inconsistent labels (varied casing, combined values like poor security/inside job) were standardised into 7 categories.
-- Year - a few entries were stored as ranges (e.g. 2019-2020) rather than a single year and were normalised.
+- Year: a few entries were stored as ranges (e.g. 2019-2020) rather than a single year and were normalised.
 
 ## Tools
 
