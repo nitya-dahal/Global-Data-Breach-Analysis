@@ -34,6 +34,7 @@ The raw dataset needed substantial cleaning before it could support reliable ana
 ## Key Findings
 
 Web Services & Social Media companies had both the highest number of breaches and the most records exposed overall, standing well above every other industry, with Healthcare and Banking & Finance following behind. In terms of how breaches happened, over half (55%) were the result of hacking or external attacks, while poor security and misconfiguration accounted for another 15%, showing that a large share of breaches come from preventable mistakes rather than sophisticated attacks alone. 
+
 Lost or stolen devices made up about 14% of cases, and insider threats and accidental exposure each accounted for a smaller share. It's worth noting the dataset only includes publicly reported breaches, and about 13% of the "records exposed" figures were estimated rather than exactly confirmed, so these numbers reflect known, disclosed incidents rather than the true full scale of data breaches.
 
 ## Tools
