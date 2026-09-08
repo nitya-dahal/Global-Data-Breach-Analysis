@@ -31,6 +31,11 @@ The raw dataset needed substantial cleaning before it could support reliable ana
 - Breach Method: 25 inconsistent labels (varied casing, combined values like poor security/inside job) were standardised into 7 categories.
 - Year: a few entries were stored as ranges (e.g. 2019-2020) rather than a single year and were normalised.
 
+## Key Findings
+
+Web Services & Social Media companies had both the highest number of breaches and the most records exposed overall, standing well above every other industry, with Healthcare and Banking & Finance following behind. In terms of how breaches happened, over half (55%) were the result of hacking or external attacks, while poor security and misconfiguration accounted for another 15%, showing that a large share of breaches come from preventable mistakes rather than sophisticated attacks alone. 
+Lost or stolen devices made up about 14% of cases, and insider threats and accidental exposure each accounted for a smaller share. It's worth noting the dataset only includes publicly reported breaches, and about 13% of the "records exposed" figures were estimated rather than exactly confirmed, so these numbers reflect known, disclosed incidents rather than the true full scale of data breaches.
+
 ## Tools
 
 Power BI Desktop (Power Query, Data Modeling, DAX)
